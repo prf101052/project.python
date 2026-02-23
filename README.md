@@ -1,2 +1,2 @@
 # project.python
-Tic em trilhas Eldorado python
+Tic em trilhas Eldorado aula de git e github
